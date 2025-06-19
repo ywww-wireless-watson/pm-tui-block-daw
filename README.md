@@ -2,6 +2,13 @@
 
 A TUI (text user interface) block-based music workstation for designing, sequencing, and exporting phase-modulated waveforms as MIDI and WAV. Compose music by arranging custom wave blocks, edit parameters interactively, and export your creations.
 
+## Demo Video
+
+Watch the demo video to see the DAW in action.
+English subtitles are available.
+
+[![Phase Modulation DAW Demo](https://img.youtube.com/vi/-4ipDNRm8B8/0.jpg)](https://www.youtube.com/watch?v=-4ipDNRm8B8A&cc_load_policy=1&hl=en&cc_lang_pref=en)
+
 ## Features
 - Block/step-based music composition with a modular workflow
 - Phase-modulated waveform design using custom mathematical formulas
